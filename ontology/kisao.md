@@ -2,11 +2,12 @@
 layout: ontology_detail
 id: kisao
 contact:
-  email: lenov@ebi.ac.uk
-  label: Nicolas Le Novere
+  email: biomodels-net-team@lists.sf.net
+  label: BioModels.net team
 description: A classification of algorithms available for the simulation of models in biology.
 domain: algorithms
-homepage: http://biomodels.net/kisao
+tracker: http://sourceforge.net/p/kisao/feature-requests/
+homepage: http://co.mbine.org/standards/kisao
 products:
   - id: kisao.owl
 title: Kinetic Simulation Algorithm Ontology
